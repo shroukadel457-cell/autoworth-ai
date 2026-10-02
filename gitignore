@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# data files (download from Kaggle, don't commit)
+*.csv
+# generated artifacts
+autoworth_model.joblib
+app_meta.json
